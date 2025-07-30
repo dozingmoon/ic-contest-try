@@ -9,3 +9,6 @@ Try to complete some recently famous IC Contest problems.
 ## B組：研究所標準元件電路設計
 ### 2025
 ### 2024 *Huge Matrix Calculations*
+
+## Reference
+ - [IC Design Contest Cell-Based 考古題分享及比賽心得](https://ting.coderbridge.io/2021/06/27/ic-design-contest-%E8%80%83%E5%8F%A4%E9%A1%8C-%E5%88%86%E4%BA%AB/)
